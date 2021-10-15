@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @RaqLeite
-- 👀 Atualmente, eu recém me interessei em linguagens de programação e engenharia de software
+- 👀 Recentemente, me interessei em linguagens de programação e engenharia de software
 - 🌱 Ainda estou aprendendo, mas estou sinceramente ansiosa com todas as possibilidades
 - 📫 Você pode me contatar no e-mail rq.albuq@gmail.com
 
